@@ -38,9 +38,6 @@ This Tableau dashboard provides an interactive exploration of sales data from th
 - **Dataset:** Sample - Superstore (built-in)
 - **Skills:** Data Visualization, Storytelling, Dashboard Design
 
-## Live Preview
-You can explore the live version here:  
-[Tableau Public Link – to be added]
 
 ## Screenshots
 ![Dashboard 2](Product_Insights.jpg)
@@ -49,5 +46,5 @@ You can explore the live version here:
 
 ## Author
 **Moaz Shaker**  
-[www.linkedin.com/in/moazshaker] | [https://www.moaz.solutions] | [moazshaker121@gmail.com]
+[www.linkedin.com/in/moazshaker] 
 
