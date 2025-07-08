@@ -46,6 +46,6 @@ You can explore the live version here:
 ![Dashboard 2.1](Screenshots/Filters.jpg)
 
 ## Author
-**Mohamed Saeed**  
-[www.linkedin.com/in/mohammed-saeed-4148b423b] | [https://www.novypro.com/profile_about/mohamed-saeed-1] | [mohammedsaaeed858@gmail.com]
+**Moaz Shaker**  
+[www.linkedin.com/in/moazshaker] | [https://www.moaz.solutions] | [moazshaker121@gmail.com]
 
