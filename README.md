@@ -1,4 +1,6 @@
-# Sales Analysis Dashboard – Tableau Project
+# Sales Analysis Dashboard – ( Tableau )
+
+![sales](https://techbullion.com/wp-content/uploads/2024/10/Selling-B2B-using-Adobe-Commerce.jpg)
 
 ## Overview
 This Tableau dashboard provides an interactive exploration of sales data from the Superstore dataset. The goal is to help decision-makers monitor performance, uncover insights, and identify improvement areas using clear visual storytelling.
